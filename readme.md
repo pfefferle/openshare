@@ -1,0 +1,1 @@
+An open Share-Button based on Microformats, Webintents and Custom Protocols (HTML5)
